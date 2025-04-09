@@ -7,7 +7,7 @@ FOSSMEC Connect Hub is a comprehensive platform for the Free and Open Source Sof
 
 ## Project Info
 
-**URL**: https://fossmec.pages.dev
+**URL**: https://foss-mec.pages.dev
 
 ## Features
 
